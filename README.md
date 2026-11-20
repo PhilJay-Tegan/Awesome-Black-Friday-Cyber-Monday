@@ -88,6 +88,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 📧 | [MailScope](https://mailscope.app/blackfriday/) | Native email debugging for Mac. Catch, preview and check development emails locally before they reach your users. | **$19 USD** one-time (regular $29, save $10). Code **bf2026** is prefilled on the checkout link. Up to two Macs (macOS 14+), with 12 months of updates. **Nov 18–30, 2026 (US Pacific)**. |
 | 📬 | [Mailflare](https://mailflare.co/macos#black-friday) | Self-hosted email, calendar, booking and Drive workspace on Cloudflare or Docker, with a native Mac mail app (Mailflare for macOS) that also works with Gmail, Outlook and iCloud. One-time perpetual licenses. | **40% OFF** Pro and Team licenses with code **TONYBF2026**, **November 20 – December 1, 2026**. Pro $29 → **$17.40**, Team $249 → **$149.40**. |
 | 🖍️ | [Chalk](https://getchalk.dev/#pricing) | A whiteboard beside your terminal for Claude Code on macOS. Claude puts its plan on the board as cards and arrows; cross out, circle or reorder a step and it fixes the plan before it writes code. Boards stay on your Mac. | **50% OFF**, no code needed: one-time ~~$24~~ **$12**, applied automatically at checkout. **Nov 20 - Dec 1, 2026**. 7-day free trial, no card or account. |
+| 👨‍💻 | [RunJS](https://runjs.app) | A playground for JavaScript and TypeScript. Zero config needed. Just run your code and see instant feedback. | **30% OFF** with code **BLACKFRIDAY2026** ~~$30~~ **$21**. (Nov 20 - Dec 1, 2026) |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -397,6 +398,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🎨 | [Krumzi](https://www.krumzi.com/pricing) | Web app that designs editable flyers, social posts, carousels and video from a one-line description. Every text, image and shape layer stays editable, and your brand kit applies automatically. | **60% OFF** the first year of yearly plans: Starter ~~$190~~ $76, Pro ~~$390~~ $156, Studio ~~$890~~ $356. No code needed, new customers and monthly users switching, Nov 20 - Dec 1, 2026 |
 | 🔬 | [SciFig](https://scifig.ai/black-friday) | Web app for creating editable scientific figures and diagrams for papers and presentations. | **Extra 20% off** the first billing period of new subscriptions, eligible upgrades and credit packs. Auto-applied. Starter annual: $100 → $80 the first year, then $100/year. Ends Dec 1, 2026 at 23:59 PT. |
 | 🌊 | [Wavedance](https://wave.dance/?utm_source=awesome-black-friday) | Animated dot-grid live wallpapers for Mac. Ten generative animations that run on the desktop, with custom palettes. Native Mac app, no subscription. | **30% OFF** the one-time purchase with code **BLACKFRIDAY30**, Nov 19 - Dec 1, 2026. |
+| 📱 | [Sleek](https://sleek.design/?utm_source=github&utm_medium=referral&utm_campaign=black-friday-2026&utm_content=awesome-bfcm-list) | AI design tool for mobile apps. Describe your app and get screen designs in minutes, then export to Figma or code. | **48% OFF** Pro yearly: ~~$360~~ $189, Nov 20 - Dec 1, 2026. No code needed. |
 
  ⬆️ | [Go to Top](#table-of-contents)
 
@@ -505,6 +507,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 📈 | [Options Matrix Pro](https://www.optionsmatrixpro.com/black-friday) | Options strategy visualizer, scanners and trade journal for retail options traders. | **50% OFF** every plan, no code needed: first year on annual (~~$100~~ $50 / ~~$300~~ $150 / ~~$500~~ $250) or first 3 months on monthly. **Nov 23 – Nov 30, 2026** |
 | 🪙 | [Cashculator](https://cashculator.app) | See where your money is going — not just where it went | **50% OFF** (~~$130~~ $65) Lifetime until Nov 30th |
 | 📈 | [ChartScout](https://chartscout.io/black-friday) | Chart-pattern detection and alerts for crypto traders. | **40% OFF** ChartScout Pro for 3 months. Discount automatically applied; no coupon code needed. |
+| 📊 | [CryptoKeyhole](https://cryptokeyhole.com/pricing/?utm_source=awesome-bf&utm_medium=listing&utm_campaign=blackfriday-2026) | On-chain, derivatives and ETF analytics for Bitcoin, Ethereum and a growing list of coins, calculated on our own nodes: liquidation maps, cycle indicators, exchange flows, ETF flows and treasury companies. | **50% OFF** the first three months of Plus or Pro on monthly billing (Plus is ~~$18~~ **$9** a month for three months, then $18), or **30% OFF** the first year on yearly billing (Plus is ~~$180~~ **$126** for the first year, then $180). From 27 November to 1 December 2026, 23:59 UTC, for new subscribers. No code is needed: the price is taken off at checkout. 14-day money-back guarantee. |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
